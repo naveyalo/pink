@@ -1,7 +1,5 @@
 $(function(){
- $('#pull').on('click', function(){
-    $('.col-menu').slideToggle();
+ $('.paperclip').on('click', function(){
+    $('.menu-2').slideToggle();
  });   
 });
-
-
